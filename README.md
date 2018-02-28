@@ -1,11 +1,11 @@
-FPF-Seleção - CRUD de Produtos
+Transire-Seleção - CRUD de Produtos
 ========================
 
 O aplicativo consiste de dois módulos, um back-end desenvolvido em Java com a utilização do Framework Spring Boot e o outro front-end desenvolvido em HTML5 com AngularJS 1.6.
 
 O módulo back-end foi desenvolvido utilizando a IDE eclipse, utilizando o Maven para facilitar a instalação e configuração do Spring Boot. A API Rest se comunica com o banco de dados MySQL, o mesmo foi usado para salvar as informações sobre os produtos. Para executar o servidor REST, temos duas alternativas:
 * Importar o projeto para o eclipse JEE e executá-lo utilizando a IDE;
-* Executar o arquivo .jar disponilizado na raiz deste repositório.
+
 
 O módulo front-end foi desenvolvido utilizando HTML5 e AngularJS 1.6. O servidor utilizado para teste foi o Apache HTTP. Para executar-mos o módulo front-end devemos instalar e configurar o servidor Apache. Logo abaixo na seção de configuração tem um link que redireciona para uma página onde ensina fazer a configuração do servidor Apache no Linux e no Windows.
 
